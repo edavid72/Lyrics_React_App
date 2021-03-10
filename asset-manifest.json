@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Lyrics_React_App/static/css/main.a3434793.chunk.css",
-    "main.js": "/Lyrics_React_App/static/js/main.3156aca0.chunk.js",
-    "main.js.map": "/Lyrics_React_App/static/js/main.3156aca0.chunk.js.map",
+    "main.js": "/Lyrics_React_App/static/js/main.c0055198.chunk.js",
+    "main.js.map": "/Lyrics_React_App/static/js/main.c0055198.chunk.js.map",
     "runtime-main.js": "/Lyrics_React_App/static/js/runtime-main.2b7da2f8.js",
     "runtime-main.js.map": "/Lyrics_React_App/static/js/runtime-main.2b7da2f8.js.map",
     "static/js/2.b86fd8f8.chunk.js": "/Lyrics_React_App/static/js/2.b86fd8f8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2b7da2f8.js",
     "static/js/2.b86fd8f8.chunk.js",
     "static/css/main.a3434793.chunk.css",
-    "static/js/main.3156aca0.chunk.js"
+    "static/js/main.c0055198.chunk.js"
   ]
 }
